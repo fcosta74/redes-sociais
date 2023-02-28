@@ -23,7 +23,7 @@ main{
 #telefone{
     position: absolute;
     top: 50%;
-    left: 38%;
+    left: 42%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 305px;
