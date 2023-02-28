@@ -23,10 +23,10 @@ main{
 #telefone{
     position: absolute;
     top: 50%;
-    left: 42%;
+    left: 38%;
     transform: translate(-50%, -50%);
     height: 627px;
-    width: 290px;
+    width: 305px;
     background: url(../imagem/frame-iphone.png) no-repeat;
 
 }
@@ -41,8 +41,8 @@ main{
     text-align: right;
 }
 #redes-sociais img{
-    width: 50px;
-    margin: 10px;
+    width: 40px;
+    margin: 5px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0, 400);
     box-sizing: border-box;
